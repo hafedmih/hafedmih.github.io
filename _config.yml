@@ -11,10 +11,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 #HEAD
-title: "WTM NKTT 2014"
+title: "1WTM NKTT 2014"
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/hafedmih.github.io"
+baseurl: ""
 title: "WTM NKT  2014"
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
